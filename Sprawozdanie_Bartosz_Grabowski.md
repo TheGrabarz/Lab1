@@ -1,0 +1,1 @@
+﻿# Moduł 1: Kali Linux | Wprowadzenie do testów penetracyjncych - rekonesans # Bartosz Grabowski nr. albumu:303696###Skrypt Bash służący do przenoszenia strefy z megacorpone.com .###Próba przeniesienia strefy z megaprone.com przy pomocy dnsrecon.![](dnsrecon1.jpg)
